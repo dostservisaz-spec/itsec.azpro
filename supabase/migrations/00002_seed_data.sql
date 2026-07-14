@@ -1,0 +1,2 @@
+-- Insert Admin user profile manually to make setup easier
+-- First, register admin with fake email through execute_sql next
